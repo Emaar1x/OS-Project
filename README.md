@@ -4,5 +4,4 @@ This project simulates basic OS features including process scheduling, memory ma
 
 ### Team Members:
 - Emaar Ejaz (Team Lead)
-- Ali Khan
-- Sana Tariq
+- iNoobfun
